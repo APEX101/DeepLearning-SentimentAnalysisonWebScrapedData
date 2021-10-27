@@ -12,7 +12,7 @@ Web Scraped the Review Data from TMDB and implemented a Sentiment Analysis Model
 - Feature Engineering.
 - Data Visualization.
 - Text Processing.
--
+- WebScraped Data using Beautifulsoup4 and requests.
 - PreProcessed the data for Transformer model using AutoTokenizer from transformers.
 - Trained the model using bert-base-multilingual-uncased-sentiment model.
 - WebScraped the data using Beautifulsoup4.
